@@ -1,7 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class AtmOtomasyonu_ORN9 {
+public class AtmOtomasyonu {
     public static void main(String[] args) {
         String islemler = "Lütfen aşağıdaki işlemlerden birini seçiniz: \n" +
                 "(1) Bakiye Sorgulama\n" +
